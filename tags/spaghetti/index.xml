@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spaghetti on Review Center</title>
+    <link>/tags/spaghetti/</link>
+    <description>Recent content in Spaghetti on Review Center</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Mar 2024 02:55:56 +0800</lastBuildDate>
+    <atom:link href="/tags/spaghetti/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jolly Spaghetti</title>
+      <link>/post/review/jollibee/spaghetti/</link>
+      <pubDate>Wed, 27 Mar 2024 02:55:56 +0800</pubDate>
+      <guid>/post/review/jollibee/spaghetti/</guid>
+      <description>clssic sweet filipino spaghetti. possibility of still getting plastic of hotdog or hair of crew. just point out to the manager to receive a whole new meal</description>
+    </item>
+  </channel>
+</rss>
